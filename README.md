@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello.
+
+Are you interested in Embedded Systems?
+
+If so, I recommand you to join (online only) the **Live Embedded Event #3** on May the 18th.
+
+The Call for Papers is currently open at <https://live-embedded-event.com>
 
 <!--
 **cpb-/cpb-** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
