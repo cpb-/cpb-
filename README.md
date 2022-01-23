@@ -1,8 +1,8 @@
-### Hello.
-
-Are you interested in embedded systems?
+### Hey, are you interested in embedded systems?
 
 If so, I recommand you to join (online only) the **Live Embedded Event #3** on May the 18th.
+
+One day of online conferences, workshops or lighting talks about the embedded ecosystem.
 
 The Call For Papers is currently open at <https://live-embedded-event.com>
 
