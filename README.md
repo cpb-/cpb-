@@ -4,7 +4,7 @@ If so, I recommand you to join (online only) the [**Live Embedded Event #3**](ht
 
 One day of online conferences, workshops or lighting talks about the embedded ecosystem.
 
-⚠️ The Call For Papers is open until April 14th at <https://live-embedded-event.com>.
+⚠️ The Call For Papers is open until April 14th at <https://live-embedded-event.com> ⚠️
 
 Don't hesitate to submit a talk. There are two formats: *long talk* (45 min. + 15 min Q/A) or *short talk* (25 min + 5 min Q/A).
 Talks may be given in english or in french.
