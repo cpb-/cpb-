@@ -6,8 +6,6 @@ One day of online conferences, workshops or lighting talks about the embedded ec
 
 The list of the speakers (and the subjects of their talks) will be available soon.
 
-(If you want to submit a talk, the Call for Papers is still open for a few days)
-
 <!--
 **cpb-/cpb-** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
