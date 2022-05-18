@@ -1,12 +1,7 @@
 ### Hey! Are you interested in embedded systems?
 
-If so, I recommand you to join (online only) the [**Live Embedded Event #3**](https://live-embedded-event.com) on **May the 18th**.
+On may 18th a "Paris Embedded" meetup will take place after 19h CEST.
 
-One day of online conferences, workshops or lighting talks about the embedded ecosystem.
-
-The list of the speakers (and the subjects of their talks) will be available soon.
-
-On may 18th a "Paris Embedded" meetup will also take place after 19h CEST.
 Feel free to join us, more details [here](https://www.meetup.com/ParisEmbedded/events/285646787/).
 
 <!--
